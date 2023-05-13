@@ -1,0 +1,16 @@
+/backend
+├── package.json
+├── package-lock.json
+├── server.js
+├── .env
+├── db.js
+└── /routes
+    ├── products.js
+    ├── users.js
+    └── orders.js
+└── /models
+    ├── Product.js
+    ├── User.js
+    └── Order.js
+└── /middleware
+    └── auth.js
